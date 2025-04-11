@@ -1,0 +1,14 @@
+.blinking-cursor {
+  font-weight: bold;
+  color: rgb(85, 0, 183);
+  animation: blink 1s step-end infinite;
+}
+
+@keyframes blink {
+  from, to {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+}
