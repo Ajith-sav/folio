@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ajith-portfolio.com/sitemap.xml
